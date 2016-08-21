@@ -1,0 +1,39 @@
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Bot Application1.dll.config
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Bot Application1.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Bot Application1.pdb
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Autofac.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Chronic.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.Bot.Builder.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.Bot.Connector.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Newtonsoft.Json.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\System.Net.Http.Formatting.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\System.Web.Http.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\System.Web.Http.WebHost.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Autofac.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.Bot.Builder.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.Bot.Connector.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\Newtonsoft.Json.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\System.Net.Http.Formatting.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\System.Web.Http.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\System.Web.Http.WebHost.xml
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\obj\Debug\ArkanoBot.csprojResolveAssemblyReference.cache
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\obj\Debug\Bot Application1.dll
+c:\users\econt\documents\visual studio 2015\Projects\ArkanoBot\ArkanoBot\obj\Debug\Bot Application1.pdb
